@@ -1,0 +1,7 @@
+C:\Users\kikip\source\repos\TetsTaskSharpNetFramework\TetsTaskSharpNetFramework\bin\Debug\TetsTaskSharpNetFramework.exe.config
+C:\Users\kikip\source\repos\TetsTaskSharpNetFramework\TetsTaskSharpNetFramework\bin\Debug\TetsTaskSharpNetFramework.exe
+C:\Users\kikip\source\repos\TetsTaskSharpNetFramework\TetsTaskSharpNetFramework\bin\Debug\TetsTaskSharpNetFramework.pdb
+C:\Users\kikip\source\repos\TetsTaskSharpNetFramework\TetsTaskSharpNetFramework\obj\Debug\TetsTaskSharpNetFramework.csproj.AssemblyReference.cache
+C:\Users\kikip\source\repos\TetsTaskSharpNetFramework\TetsTaskSharpNetFramework\obj\Debug\TetsTaskSharpNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\kikip\source\repos\TetsTaskSharpNetFramework\TetsTaskSharpNetFramework\obj\Debug\TetsTaskSharpNetFramework.exe
+C:\Users\kikip\source\repos\TetsTaskSharpNetFramework\TetsTaskSharpNetFramework\obj\Debug\TetsTaskSharpNetFramework.pdb
